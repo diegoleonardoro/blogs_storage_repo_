@@ -37,7 +37,7 @@ Each method performs specific data operations using MongoDB and Redis:
 
 **Key Points to Note:**
 
-- Error Handling: The use of BadRequest and Handling**: The use of BadRequestError` throughout the methods standardizes error responses.
+- Error Handling: The use of BadRequestError` throughout the methods standardizes error responses.
   
 - Caching Strategy: By caching frequently accessed data, the application reduces load on the database and can improve response times.
   
